@@ -6,7 +6,7 @@
 			<generator class="sequence">
 				<param name="sequence">CUSTOMER_SEQ</param>
 				<!-- In hibernate5 name changed to 'sequence_name' -->
-				<!-- <param name="sequence_name">CUSTOMER_SEQ</param> -->
+				<!-- <param name="sequence_name">CUSTOMER_SEQ</param> asas-->
 			</generator>
 		</id>
 		<property name="cname" column="CNAME" type="string" length="20" />
