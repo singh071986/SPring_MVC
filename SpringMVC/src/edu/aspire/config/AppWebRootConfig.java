@@ -14,7 +14,7 @@ import org.springframework.web.servlet.view.InternalResourceView;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 import edu.aspire.controllers.NewCustomerController;
-//test  hghg
+//test  hghgasa
 @Configuration
 public class AppWebRootConfig{
 	/*@Bean
