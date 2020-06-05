@@ -14,9 +14,9 @@ import org.springframework.web.servlet.view.InternalResourceView;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 import edu.aspire.controllers.NewCustomerController;
-
+//test
 @Configuration
-public class AppWebRootConfig {
+public class AppWebRootConfig{
 	/*@Bean
 	public DataSource dataSource() {
 		BasicDataSource bds = new BasicDataSource();
